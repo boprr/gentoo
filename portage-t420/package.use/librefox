@@ -1,0 +1,3 @@
+media-libs/mesa X
+media-libs/libglvnd X
+gui-libs/wlroots tinywl

@@ -1,0 +1,4 @@
+cross-x86_64-elf-clang/linux-headers amd64 ~amd64
+cross-x86_64-elf-clang/binutils amd64 ~amd64
+cross-x86_64-elf-clang/gcc amd64 ~amd64
+cross-x86_64-elf-clang/gdb amd64 ~amd64

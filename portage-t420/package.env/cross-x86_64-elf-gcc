@@ -1,0 +1,4 @@
+cross-x86_64-elf-gcc/linux-headers cross-x86_64-elf-gcc/linux-headers.conf
+cross-x86_64-elf-gcc/binutils cross-x86_64-elf-gcc/binutils.conf
+cross-x86_64-elf-gcc/gcc cross-x86_64-elf-gcc/gcc.conf
+cross-x86_64-elf-gcc/gdb cross-x86_64-elf-gcc/gdb.conf

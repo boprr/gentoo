@@ -1,0 +1,4 @@
+cross-x86_64-elf-gcc/linux-headers  multilib
+cross-x86_64-elf-gcc/binutils  multilib
+cross-x86_64-elf-gcc/gcc  multilib
+cross-x86_64-elf-gcc/gdb  multilib

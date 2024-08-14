@@ -1,0 +1,4 @@
+sys-apps/coreutils lto-less
+sys-devel/llvm lto-less
+sys-devel/clang lto-less
+sys-devel/gcc lto-less
